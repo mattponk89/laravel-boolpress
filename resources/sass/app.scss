@@ -6,3 +6,14 @@
 
 // Bootstrap
 @import '~bootstrap/scss/bootstrap';
+
+
+body {
+  min-height: 100vh;
+  background-color: black;
+}
+.bordertag{
+  display: inline-block;
+  border: 1px solid lightgrey;
+  padding: 5px;
+}
